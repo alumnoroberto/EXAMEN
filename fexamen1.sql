@@ -1,1 +1,10 @@
-Esta es la linea 1 del master
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
+adios rama 2
